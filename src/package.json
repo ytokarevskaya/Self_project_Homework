@@ -1,0 +1,25 @@
+{
+  "name": "20module",
+  "version": "1.0.0",
+  "main": "script1.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trueharis/module19_homework.git"
+  },
+  "author": "kharisov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trueharis/module19_homework/issues"
+  },
+  "homepage": "https://github.com/trueharis/module19_homework#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
